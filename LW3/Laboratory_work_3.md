@@ -12,13 +12,13 @@
 
 Параметри моделі (вкладка Model):
 
-["grid-size-y" 3]
-["grid-size-x" 3]
-["power?" true]
-["num-cars" 40]
-["speed-limit" [0.1 0.1 1]]
-["ticks-per-cycle" [5 1 100]]
-["yellow-drive-chance" 85]
+</br>["grid-size-y" 3]
+</br>["grid-size-x" 3]
+</br>["power?" true]
+</br>["num-cars" 40]
+</br>["speed-limit" [0.1 0.1 1]]
+</br>["ticks-per-cycle" [5 1 100]]
+</br>["yellow-drive-chance" 85]
 
 Використовувана міра:
 У якості цільової функції було обрано значення середнього часу очікування машин до початку руху, вираз для її розрахунку взято з налаштувань графіка аналізованої імітаційної моделі в середовищі NetLogo 
