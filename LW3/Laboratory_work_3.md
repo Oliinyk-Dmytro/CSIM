@@ -6,7 +6,7 @@
 
 Варіант 1, модель у середовищі NetLogo: [Traffic Grid](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Traffic%20Grid.nlogo)
 
-Вербальний опис обраної моделі знаходиться у [1 лабораторній роботі](/LW1/Laboratory_work_1.md).
+Вербальний опис обраної моделі знаходиться у [1 лабораторній роботі](/LW1/Laboratory_work_1.md#Вербальний-опис-моделі).
 
 ## Налаштування середовища BehaviorSearch
 
